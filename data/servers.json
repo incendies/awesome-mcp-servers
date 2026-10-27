@@ -3879,6 +3879,25 @@
     }
   },
   {
+    "name": "imageat",
+    "url": "https://github.com/incendies/imageat-mcp",
+    "description": "AI image generation and editing, video, and 20+ image-edit tools. Run `npx @imageat/mcp` with an API key, or use the hosted Streamable HTTP server with OAuth. Credits per generation.",
+    "category": "ai-agents-and-memory",
+    "language": "Other",
+    "provider": "imageat",
+    "tags": [
+      "image-generation",
+      "video-generation",
+      "image-editing",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.imageat.com/mcp"
+    }
+  },
+  {
     "name": "Stivio",
     "url": "https://stivio.ai/mcp",
     "description": "AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.",
